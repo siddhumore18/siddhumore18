@@ -26,21 +26,21 @@
 
 ---
 
-### 🟢 **GeeksforGeeks**
-<a href="https://auth.geeksforgeeks.org/user/srmore1uh0j/">
-  <img src="https://gfg-stats-card.vercel.app/srmore1uh0j?theme=dark" />
+### 🟢 GeeksforGeeks
+<a href="https://auth.geeksforgeeks.org/user/srmore1uh0j">
+  <img src="https://gfgstatscard.vercel.app/api?user=srmore1uh0j&theme=dark" />
 </a>
 
----
 
-### 🟡 **CodeChef**
+---
+### 🟡 CodeChef
 <a href="https://www.codechef.com/users/siddhu_more">
-  <img src="https://cp-logo.vercel.app/codechef/siddhu_more" />
+  <img src="https://codechef-stats.vercel.app/siddhu_more?theme=dark" />
 </a>
 
 ---
 
-### 🟣 **HackerRank**
+### 🟣 HackerRank
 <a href="https://www.hackerrank.com/profile/srmore125125">
   <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" />
 </a>
