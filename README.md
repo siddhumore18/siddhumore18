@@ -24,28 +24,28 @@
   <img src="https://leetcard.jacoblin.cool/siddhumore_18?theme=dark&font=Balance&ext=contest" />
 </a>
 
+# 📘 Coding Profiles  
+
 ---
 
-### 🟢 GeeksforGeeks
+### 🟢 GeeksforGeeks  
 <a href="https://auth.geeksforgeeks.org/user/srmore1uh0j">
-  <img src="https://gfgstatscard.vercel.app/api?user=srmore1uh0j&theme=dark" />
+  <img src="https://gfg-card.vercel.app/api?username=srmore1uh0j&theme=dark" />
 </a>
 
-
 ---
-### 🟡 CodeChef
+
+### 🟡 CodeChef  
 <a href="https://www.codechef.com/users/siddhu_more">
-  <img src="https://codechef-stats.vercel.app/siddhu_more?theme=dark" />
+  <img src="https://codechef-readme-stats.vercel.app/api?username=siddhu_more&theme=dark" />
 </a>
 
 ---
 
-### 🟣 HackerRank
+### 🟣 HackerRank  
 <a href="https://www.hackerrank.com/profile/srmore125125">
   <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" />
 </a>
-
----
 
 # 🔥 GitHub Stats  
 
