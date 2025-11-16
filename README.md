@@ -17,35 +17,37 @@
 
 ---
 
-# 📘 Coding Profiles  
+## 📘 Coding Profiles
 
-### 🟩 **LeetCode**
+<p align="center">
+
+<!-- LeetCode -->
 <a href="https://leetcode.com/u/siddhumore_18/">
-  <img src="https://leetcard.jacoblin.cool/siddhumore_18?theme=dark&font=Balance&ext=contest" />
+  <img height="150" src="https://leetcard.jacoblin.cool/siddhumore_18?theme=dark&font=Balance" />
 </a>
 
-# 📘 Coding Profiles  
+&nbsp;&nbsp;&nbsp;
 
----
-
-### 🟢 GeeksforGeeks  
+<!-- GFG -->
 <a href="https://auth.geeksforgeeks.org/user/srmore1uh0j">
-  <img src="https://gfg-card.vercel.app/api?username=srmore1uh0j&theme=dark" />
+  <img height="150" src="https://gfgstats.vercel.app/api?user=srmore1uh0j" />
 </a>
 
----
+&nbsp;&nbsp;&nbsp;
 
-### 🟡 CodeChef  
+<!-- CodeChef -->
 <a href="https://www.codechef.com/users/siddhu_more">
-  <img src="https://codechef-readme-stats.vercel.app/api?username=siddhu_more&theme=dark" />
+  <img height="150" src="https://codechef-stats-api.vercel.app/siddhu_more?theme=dark" />
 </a>
 
----
+&nbsp;&nbsp;&nbsp;
 
-### 🟣 HackerRank  
+<!-- HackerRank -->
 <a href="https://www.hackerrank.com/profile/srmore125125">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" />
+  <img height="150" src="https://img.shields.io/badge/Hackerrank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" />
 </a>
+
+</p>
 
 # 🔥 GitHub Stats  
 
