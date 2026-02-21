@@ -9,7 +9,7 @@
 ---
 
 # 🚀 About Me  
-- 🎓 CSE student at **Kolhapur Institute of Technology**  
+- 🎓 Third Year CSBS student at **Kolhapur Institute of Technology**  
 - 🌱 Learning **MERN Stack, Cloud Computing, and Deep Learning**  
 - 🤖 Building AI tools, ML models & full-stack projects  
 - 👨‍💻 Interested in SWE, AI/ML, cloud, and large-scale system design  
