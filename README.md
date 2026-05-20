@@ -1,110 +1,126 @@
-<h1 align="center">Hi 👋, I'm Siddheshwar More</h1>
-<h3 align="center">AI | Web Dev | Cloud | Competitive Programmer | ML Enthusiast</h3>
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Full+Stack+Developer;Cloud+Computing+Learner;Machine+Learning+Engineer;Competitive+Programmer">
-</p>
+# Hi, I'm Siddheshwar More 👋
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=639922¢er=true&vCenter=true&width=540&lines=AI%2FML+Engineer+in+Progress;Full-Stack+Developer;Cloud+%26+Deep+Learning+Learner;Competitive+Programmer;Open+to+SWE+%2F+AI+%2F+ML+Roles)](https://git.io/typing-svg)
 
-# 🚀 About Me  
-- 🎓 Third Year CSBS student at **Kolhapur Institute of Technology**  
-- 🌱 Learning **MERN Stack, Cloud Computing, and Deep Learning**  
-- 🤖 Building AI tools, ML models & full-stack projects  
-- 👨‍💻 Interested in SWE, AI/ML, cloud, and large-scale system design  
-- 🎯 Goal: Crack a high-paying SWE/AI Engineer role  
+**Available for SWE / AI / ML Roles**
+
+<a href="https://linkedin.com/in/siddheshwar-more-24873b284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:srmore125125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/siddhumore_18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/srmore125125"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+
+</div>
 
 ---
 
-## 📘 Coding Profiles
+## 🙋 About Me
 
-<p align="center">
-
-<!-- LeetCode -->
-<a href="https://leetcode.com/u/siddhumore_18/">
-  <img height="150" src="https://leetcard.jacoblin.cool/siddhumore_18?theme=dark&font=Balance" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<!-- GFG -->
-<a href="https://auth.geeksforgeeks.org/user/srmore1uh0j">
-  <img height="150" src="https://gfgstats.vercel.app/api?user=srmore1uh0j" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<!-- CodeChef -->
-<a href="https://www.codechef.com/users/siddhu_more">
-  <img height="150" src="https://codechef-stats-api.vercel.app/siddhu_more?theme=dark" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<!-- HackerRank -->
-<a href="https://www.hackerrank.com/profile/srmore125125">
-  <img height="150" src="https://img.shields.io/badge/Hackerrank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" />
-</a>
-
-</p>
-
-# 🔥 GitHub Stats  
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=siddhumore18&show_icons=true&theme=radical" />
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhumore18&theme=radical" />
-</p>
+| | |
+|---|---|
+| 🎓 | Third-year **CSBS** student @ Kolhapur Institute of Technology |
+| 🎯 | Goal: Crack a high-paying **SWE / AI Engineer** role |
+| 🌱 | Currently learning **MERN Stack, Cloud Computing & Deep Learning** |
+| 💡 | Passionate about **AI/ML, system design & competitive programming** |
 
 ---
 
-# 🧠 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhumore18&layout=compact&theme=tokyonight"/>
-</p>
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-# 🛠️ Tech Stack  
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,java,python,c,cpp,aws,git,github,linux,figma" />
-</p>
+### 📘 Engineering Study Hub
+Platform for engineering students — videos, notes, PYQs & quizzes in one place.
 
----
+### 🤖 artVision — AI Media Tool
+AI-powered image generator, chatbot & meme maker in a single app.
 
-# 🚀 Featured Projects  
-### 🔥 **Engineering Study Hub**  
-A platform for engineering students to access videos, notes, PYQs & quizzes.  
+### 🎮 Coders Round — Coding Battle Platform
+Real-time competitive coding battles with matchmaking & anti-cheat.
 
-### 🤖 **artVision – AI Media Tool**  
-AI-powered image generator, chatbot & meme maker.  
-
-### 🎮 **Coders Round – Coding Battle Platform**  
-Real-time competitive coding battles with matchmaking & anti-cheat.  
-
-### 🌱 **EcoCart – Sustainable Shopping Assistant**  
-Rates products based on eco-friendliness and suggests greener alternatives.
+### 🌱 EcoCart — Sustainable Shopping Assistant
+Rates products on eco-friendliness and suggests greener alternatives.
 
 ---
 
-# 📬 Connect With Me  
+## 📊 GitHub Stats
 
-<p align="left">
-<a href="https://www.linkedin.com/in/siddheshwar-more-24873b284/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:srmore125125@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://leetcode.com/u/siddhumore_18/"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
-</p>
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=siddhumore18&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+ 
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhumore18&theme=dark&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhumore18&layout=compact&theme=dark&hide_border=true"/>
+
+</div>
 
 ---
 
-# ⭐ Visitors Count  
-![](https://komarev.com/ghpvc/?username=siddhumore18&color=blueviolet)
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhumore18&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# 🐍 Contribution Snake Animation (Optional)
-(Add this after setting up GitHub Actions)
+## 🏆 GitHub Trophies
 
-```md
+![Trophies](https://github-profile-trophy.vercel.app/?username=siddhumore18&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7)
+
+---
+
+## 🐍 Contribution Snake
+
 ![snake gif](https://github.com/siddhumore18/siddhumore18/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/u/siddhumore_18/"><img src="https://img.shields.io/badge/LeetCode-siddhumore__18-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/srmore1uh0j"><img src="https://img.shields.io/badge/GeeksForGeeks-srmore1uh0j-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/siddhu_more"><img src="https://img.shields.io/badge/CodeChef-siddhu__more-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/srmore125125"><img src="https://img.shields.io/badge/HackerRank-srmore125125-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddhumore18&color=639922&style=flat-square" alt="Profile views"/>
+</div>
