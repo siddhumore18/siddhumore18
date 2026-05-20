@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=639922¢er=true&vCenter=true&width=540&lines=AI%2FML+Engineer+in+Progress;Full-Stack+Developer;Cloud+%26+Deep+Learning+Learner;Competitive+Programmer;Open+to+SWE+%2F+AI+%2F+ML+Roles)](https://git.io/typing-svg)
 
-**Available for SWE / AI / ML Roles**
+**🟢 Available for SWE / AI / ML Roles**
 
 <a href="https://linkedin.com/in/siddheshwar-more-24873b284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:srmore125125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -62,17 +62,17 @@
 
 ## 🚀 Featured Projects
 
-### 📘 Engineering Study Hub
-Platform for engineering students — videos, notes, PYQs & quizzes in one place.
+### 🚌 [BusSetu](https://github.com/siddhumore18/BusSetu)
+Smart bus tracking and route management platform for seamless public transport.
 
-### 🤖 artVision — AI Media Tool
-AI-powered image generator, chatbot & meme maker in a single app.
+### ✨ [skill_Synk](https://github.com/siddhumore18/skill_Synk)
+AI-powered skill-matching and learning sync platform for developers.
 
-### 🎮 Coders Round — Coding Battle Platform
-Real-time competitive coding battles with matchmaking & anti-cheat.
+### 📍 [civic-issue](https://github.com/siddhumore18/civic-issue)
+Citizen grievance portal to report and track local civic problems efficiently.
 
-### 🌱 EcoCart — Sustainable Shopping Assistant
-Rates products on eco-friendliness and suggests greener alternatives.
+### 🌾 [Shetkari Bandhu](https://github.com/siddhumore18/Shetkari_Bandhu_2)
+AI-powered farming assistant helping farmers with crop advice and market info.
 
 ---
 
